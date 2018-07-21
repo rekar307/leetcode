@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_Median_of_Two_Sorted_Arrays", "4_Median_of_Two_Sorted_Arrays\4_Median_of_Two_Sorted_Arrays.vcxproj", "{8DC1C091-7F92-4023-A060-720E2975AD13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "google", "google", "{EEDA1EFA-AF9C-44E3-96D4-7AF9E403FA40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "general", "general", "{6D5DA9DD-88AA-491F-BF22-2BDA86045710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Debug|x64.ActiveCfg = Debug|x64
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Debug|x64.Build.0 = Debug|x64
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Debug|x86.Build.0 = Debug|Win32
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Release|x64.ActiveCfg = Release|x64
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Release|x64.Build.0 = Release|x64
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Release|x86.ActiveCfg = Release|Win32
+		{8DC1C091-7F92-4023-A060-720E2975AD13}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8DC1C091-7F92-4023-A060-720E2975AD13} = {EEDA1EFA-AF9C-44E3-96D4-7AF9E403FA40}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E70AFDC-C076-4196-BFA5-BA560ED00A54}
+	EndGlobalSection
+EndGlobal
